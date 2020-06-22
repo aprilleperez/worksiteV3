@@ -18,19 +18,23 @@
 :root {
   /* Base Colors */
   --main-bg-color: #000;
-  --second-bg-color: #242424;
-  --third-bg-color: #1A1A1A;
-  --main-text-color: #DFDFDF;
+  --second-bg-color: #FFF;
+  --third-bg-color: #3399CC;
+  --main-text-color: #555555;
   --second-text-color: #FFF;
-  --third-text-color: #7D7D7D;
   --accent-text-color: #3399CC;
   /* Base Font Sizes */
   --text-xxsmall: 16px;
-  --text-xsmall: 18px;
-  --text-small: 21px;
-  --text-medium: 24px;
-  --text-large: 30px;
-  --text-xlarge: 50px;
+  --text-xsmall: 24px;
+  --text-small: 32px;
+  --text-medium: 48px;
+  --text-large: 64px;
+  --text-xlarge: 80px;
+
+  /* --second-bg-color: #242424; */
+  /* --third-bg-color: #1A1A1A; */
+  /* --main-text-color: #DFDFDF; */
+  /* --third-text-color: #7D7D7D; */
 }
 html {
   scroll-behavior: smooth;
